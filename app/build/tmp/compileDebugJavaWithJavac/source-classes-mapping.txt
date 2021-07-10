@@ -1,0 +1,15 @@
+com/masai/a8july_recycler_2_we1/StudentViewHolder.java
+ com.masai.a8july_recycler_2_we1.StudentViewHolder
+ com.masai.a8july_recycler_2_we1.StudentViewHolder$1
+com/masai/a8july_recycler_2_we1/ItemClickListener.java
+ com.masai.a8july_recycler_2_we1.ItemClickListener
+com/masai/a8july_recycler_2_we1/StudentModel.java
+ com.masai.a8july_recycler_2_we1.StudentModel
+com/masai/a8july_recycler_2_we1/StudentAdapter.java
+ com.masai.a8july_recycler_2_we1.StudentAdapter
+com/masai/a8july_recycler_2_we1/MainActivity.java
+ com.masai.a8july_recycler_2_we1.MainActivity
+ com.masai.a8july_recycler_2_we1.MainActivity$1
+ com.masai.a8july_recycler_2_we1.MainActivity$2
+com/masai/a8july_recycler_2_we1/BuildConfig.java
+ com.masai.a8july_recycler_2_we1.BuildConfig
